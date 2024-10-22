@@ -1,2 +1,2 @@
-# biomedical_data_mining
-But du projet : identifier des groupes de gènes qui  présentent des motifs d'expression similaires. Ces groupes indiquent souvent que les gènes  peuvent partager des fonctions biologiques similaires.
+# Biomedical Data Mining
+**Project Goal**: Identify groups of genes that exhibit similar expression patterns within an RNA sequence of *Saccharomyces cerevisiae* (a species of yeast). These groups often indicate that the genes may share similar biological functions.
